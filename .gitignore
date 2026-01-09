@@ -40,3 +40,5 @@ out/
 .kotlin
 **/kls_database.db
 
+### ideaVim ###
+**/.ideavimrc
